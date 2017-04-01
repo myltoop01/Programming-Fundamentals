@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Files, Directories and Exeptions\Odd Lines\bin\Debug\Odd Lines.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Files, Directories and Exeptions\Odd Lines\bin\Debug\Odd Lines.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Files, Directories and Exeptions\Odd Lines\bin\Debug\Odd Lines.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Files, Directories and Exeptions\Odd Lines\obj\Debug\Odd Lines.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Files, Directories and Exeptions\Odd Lines\obj\Debug\Odd Lines.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Files, Directories and Exeptions\Odd Lines\obj\Debug\Odd Lines.csprojResolveAssemblyReference.cache

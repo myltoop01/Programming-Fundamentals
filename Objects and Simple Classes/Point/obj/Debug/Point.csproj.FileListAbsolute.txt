@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\Point\bin\Debug\Point.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\Point\bin\Debug\Point.exe
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\Point\bin\Debug\Point.pdb
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\Point\obj\Debug\Point.exe
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\Point\obj\Debug\Point.pdb
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\Point\obj\Debug\Point.csprojResolveAssemblyReference.cache

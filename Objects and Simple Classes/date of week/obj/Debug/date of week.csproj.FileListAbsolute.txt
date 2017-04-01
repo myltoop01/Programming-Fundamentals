@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\date of week\bin\Debug\date of week.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\date of week\bin\Debug\date of week.exe
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\date of week\bin\Debug\date of week.pdb
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\date of week\obj\Debug\date of week.exe
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\date of week\obj\Debug\date of week.pdb
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\date of week\obj\Debug\date of week.csprojResolveAssemblyReference.cache

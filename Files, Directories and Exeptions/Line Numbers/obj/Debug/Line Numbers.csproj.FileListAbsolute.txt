@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Files, Directories and Exeptions\Line Numbers\bin\Debug\Line Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Files, Directories and Exeptions\Line Numbers\bin\Debug\Line Numbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Files, Directories and Exeptions\Line Numbers\bin\Debug\Line Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Files, Directories and Exeptions\Line Numbers\obj\Debug\Line Numbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Files, Directories and Exeptions\Line Numbers\obj\Debug\Line Numbers.pdb

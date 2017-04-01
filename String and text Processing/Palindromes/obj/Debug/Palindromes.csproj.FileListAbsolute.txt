@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\String and text Processing\Palindromes\bin\Debug\Palindromes.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\String and text Processing\Palindromes\bin\Debug\Palindromes.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\String and text Processing\Palindromes\bin\Debug\Palindromes.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\String and text Processing\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\String and text Processing\Palindromes\obj\Debug\Palindromes.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\String and text Processing\Palindromes\obj\Debug\Palindromes.pdb

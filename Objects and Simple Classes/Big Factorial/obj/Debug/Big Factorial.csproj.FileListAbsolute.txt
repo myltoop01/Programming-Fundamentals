@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\Big Factorial\bin\Debug\Big Factorial.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\Big Factorial\bin\Debug\Big Factorial.exe
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\Big Factorial\bin\Debug\Big Factorial.pdb
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\Big Factorial\obj\Debug\Big Factorial.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\Big Factorial\obj\Debug\Big Factorial.exe
+c:\users\user\documents\visual studio 2015\Projects\Objects and Simple Classes\Big Factorial\obj\Debug\Big Factorial.pdb

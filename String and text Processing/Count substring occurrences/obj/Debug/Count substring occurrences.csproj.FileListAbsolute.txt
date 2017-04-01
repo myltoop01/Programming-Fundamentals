@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\String and text Processing\Count substring occurrences\bin\Debug\Count substring occurrences.exe.config
+c:\users\user\documents\visual studio 2015\Projects\String and text Processing\Count substring occurrences\bin\Debug\Count substring occurrences.exe
+c:\users\user\documents\visual studio 2015\Projects\String and text Processing\Count substring occurrences\bin\Debug\Count substring occurrences.pdb
+c:\users\user\documents\visual studio 2015\Projects\String and text Processing\Count substring occurrences\obj\Debug\Count substring occurrences.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\String and text Processing\Count substring occurrences\obj\Debug\Count substring occurrences.exe
+c:\users\user\documents\visual studio 2015\Projects\String and text Processing\Count substring occurrences\obj\Debug\Count substring occurrences.pdb

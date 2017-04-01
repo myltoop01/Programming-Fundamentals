@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: 11. Convert Speed Units, Configuration: Debug Any CPU ------
+1>  11. Convert Speed Units -> C:\Users\zzdra\Documents\Visual Studio 2015\Projects\Programming Fundamentals\01.2017\Data Types and Variables - Exercises\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

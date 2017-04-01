@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lambda and LINQ More Exercises\Registrered Users\bin\Debug\Registrered Users.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lambda and LINQ More Exercises\Registrered Users\bin\Debug\Registrered Users.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lambda and LINQ More Exercises\Registrered Users\bin\Debug\Registrered Users.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lambda and LINQ More Exercises\Registrered Users\obj\Debug\Registrered Users.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lambda and LINQ More Exercises\Registrered Users\obj\Debug\Registrered Users.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lambda and LINQ More Exercises\Registrered Users\obj\Debug\Registrered Users.pdb

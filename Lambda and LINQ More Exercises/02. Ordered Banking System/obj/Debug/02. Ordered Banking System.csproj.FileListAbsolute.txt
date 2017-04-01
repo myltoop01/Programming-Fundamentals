@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lambda and LINQ More Exercises\02. Ordered Banking System\bin\Debug\_02.Ordered_Banking_System.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lambda and LINQ More Exercises\02. Ordered Banking System\bin\Debug\_02.Ordered_Banking_System.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lambda and LINQ More Exercises\02. Ordered Banking System\bin\Debug\_02.Ordered_Banking_System.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lambda and LINQ More Exercises\02. Ordered Banking System\obj\Debug\02. Ordered Banking System.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lambda and LINQ More Exercises\02. Ordered Banking System\obj\Debug\_02.Ordered_Banking_System.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lambda and LINQ More Exercises\02. Ordered Banking System\obj\Debug\_02.Ordered_Banking_System.pdb
